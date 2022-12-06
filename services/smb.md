@@ -1,4 +1,0 @@
-smbclient
-
-[[enum4linux]]
-
