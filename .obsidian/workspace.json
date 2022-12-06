@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "c3f92a9bc1365c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1abada5ba5f39b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f0f46255d5c30bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OwnScripts/hash_cracker.py.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ba4bcf314a9667b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccb05c38d5f2754c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a3d7aca12b131121",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35218642b8c82fb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20af99c9f8c8b89a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d434c7885057e2c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "997c5fa65387e905",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a1f8a0bd91c5016",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e140ab6b3bbcef06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "VIM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3a71a6e5f01786d6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "VIM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dff99a8df7c3626b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e5ff6c89a49b465",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "VIM.md"
+              }
+            }
+          },
+          {
+            "id": "14e3bbbbaf0f1d21",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2ba4bcf314a9667b",
+  "lastOpenFiles": [
+    "OwnScripts/hash_cracker.py.md",
+    "OwnScripts/directory_enum.py.md",
+    "Stabilize Shell.md",
+    "Path hijack.md",
+    "Cool tools.md",
+    "LinuxSetUp.md",
+    "Cool websites.md"
+  ]
+}
