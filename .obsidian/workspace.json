@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3f0f46255d5c30bf",
+            "id": "2ba4bcf314a9667b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2ba4bcf314a9667b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VIM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VIM.md",
+                "file": "OwnScripts/hash_cracker.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VIM.md",
+                "file": "OwnScripts/hash_cracker.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VIM.md"
+                "file": "OwnScripts/hash_cracker.py.md"
               }
             }
           },
@@ -159,12 +146,15 @@
   },
   "active": "2ba4bcf314a9667b",
   "lastOpenFiles": [
-    "OwnScripts/hash_cracker.py.md",
+    "OwnScripts/keylogger.py.md",
     "OwnScripts/directory_enum.py.md",
-    "Stabilize Shell.md",
-    "Path hijack.md",
-    "Cool tools.md",
-    "LinuxSetUp.md",
-    "Cool websites.md"
+    "Proxy/Tworzenie tunelu proxy przez ssh.md",
+    "Proxy/README.md",
+    "QOL/README.md",
+    "QOL/vi.md",
+    "QOL/tmux.md",
+    "Services/SMB.md",
+    "Services/README.md",
+    "Services/NFS.md"
   ]
 }

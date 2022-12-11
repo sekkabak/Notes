@@ -1,18 +1,18 @@
 
 
-### Analiza APK
+### APK
 https://mobsf.live/
 
 
-### Enumeracja APK
+### Enum APK
 - anbox
 
 
-### CLI do baz danych, database CLI
+### database CLI for most dbs
 - sqsh
 
 
-### Enumeracja i atak JBOSS, Tomcat, Java
+### enum and attack JBOSS, Tomcat, Java
 - jexboss
 - ysoserial
 - barmie

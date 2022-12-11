@@ -8,7 +8,7 @@
 * [Path hijack](<Path hijack.md>)
 * [Stabilize Shell](<Stabilize Shell.md>)
 * [VIM](VIM.md)
-* [Zliczenie liczby linii kodu](<Zliczenie liczby linii kodu.md>)
+* [Calculate lines of code](Calculate%20lines%20of%20code.md liczby linii kodu.md>)
 * [OwnScripts](ownscripts/README.md)
   * [directory\_enum.py](OwnScripts/directory\_enum.py.md)
   * [hash\_cracker.py](OwnScripts/hash\_cracker.py.md)
