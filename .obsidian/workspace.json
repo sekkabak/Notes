@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c1abada5ba5f39b4",
+        "id": "646af21b6a4de857",
         "type": "tabs",
         "children": [
           {
-            "id": "2ba4bcf314a9667b",
+            "id": "4c124b0a07d648d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proxy/README.md",
+                "file": "SUMMARY.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "752f9572d84c567f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pentesting API's.md",
-                "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pentesting API's.md",
+                "file": "SUMMARY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pentesting API's.md",
+                "file": "SUMMARY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pentesting API's.md"
+                "file": "SUMMARY.md"
               }
             }
           },
@@ -157,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "752f9572d84c567f",
+  "active": "4c124b0a07d648d3",
   "lastOpenFiles": [
+    "README.md",
+    "OwnScripts/README.md",
+    "SUMMARY.md",
+    "Calculate lines of code.md",
+    "VIM.md",
+    "LinuxSetUp.md",
     "Proxy/README.md",
+    "Pentesting API's.md",
     "OwnScripts/hash_cracker.py.md",
-    "OwnScripts/keylogger.py.md",
-    "OwnScripts/directory_enum.py.md",
-    "Proxy/Tworzenie tunelu proxy przez ssh.md",
-    "QOL/README.md",
-    "QOL/vi.md",
-    "QOL/tmux.md",
-    "Services/SMB.md",
-    "Services/README.md"
+    "OwnScripts/keylogger.py.md"
   ]
 }
