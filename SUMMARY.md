@@ -7,7 +7,7 @@
 * [LinuxSetUp](LinuxSetUp.md)
 * [Path hijack](<Path hijack.md>)
 * [Stabilize Shell](<Stabilize Shell.md>)
-* [Pentesting API's](<Pentesting API's>)
+* [pentesting-api](pentesting-api.md)
 * [VIM](VIM.md)
 * [Calculate lines of code](<Calculate lines of code.md>)
 * [OwnScripts](ownscripts/README.md)
