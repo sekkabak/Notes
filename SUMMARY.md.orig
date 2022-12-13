@@ -9,7 +9,11 @@
 * [Stabilize Shell](<Stabilize Shell.md>)
 * [Pentesting API's](<Pentesting API's>)
 * [VIM](VIM.md)
+<<<<<<< HEAD
 * [Calculate lines of code](<Calculate lines of code.md>)
+=======
+* [\[Calculate lines of code\](Calculate%20lines%20of%20code.md liczby linii kodu.md>)](calculate-lines-of-code-calculate-20lines-20of-20code.md-liczby-linii-kodu.md-greater-than.md)
+>>>>>>> e215c17b7a1510ccf0d9bfc96db4b96f0f6bff19
 * [OwnScripts](ownscripts/README.md)
   * [directory\_enum.py](OwnScripts/directory\_enum.py.md)
   * [hash\_cracker.py](OwnScripts/hash\_cracker.py.md)
